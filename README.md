@@ -27,7 +27,12 @@ My main contributions:
 
 Nexus
 
-An Unreal Engine project based on Ali Elzoheiry's YouTube course on multiplayer game development and the Gameplay Ability System. I've been using the project to learn and experiment with GAS, dedicated servers, multiple clients, and gameplay replication. https://www.youtube.com/playlist?list=PLNwKK6OwH7eVaq19HBUEL3UnPAfbpcUSL
+An Unreal Engine project based on Ali Elzoheiry's YouTube course on multiplayer game development and the Gameplay Ability System. I've been using the project to learn and experiment with GAS, dedicated servers, multiple clients, and gameplay replication. 
+https://www.youtube.com/playlist?list=PLNwKK6OwH7eVaq19HBUEL3UnPAfbpcUSL
+
+https://github.com/user-attachments/assets/48c16fbf-dc18-4847-8523-dee491c6b45c
+
+
 
 🌱 Currently
 
