@@ -18,7 +18,7 @@ Git & Azure DevOps: Version control and collaboration in team projects
 
 ### Capsized
 
-Capsized A team-developed Unreal Engine game inspired by the 2006 film Poseidon, where a tidal wave flips a cruise ship upside down and the player has to escape the sinking vessel. Our project focuses on the ship's ballroom. Our team uses Azure DevOps for version control, code reviews, and collaboration.
+A team-developed Unreal Engine game project inspired by the 2006 film Poseidon, where a tidal wave flips a cruise ship upside down and the player has to escape the sinking vessel. Our project focuses on the ship's ballroom. Our team uses Azure DevOps for version control, code reviews, and collaboration.
 
 My main contributions:
 
