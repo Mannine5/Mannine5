@@ -25,6 +25,8 @@ My main contributions:
 - Gameplay (C++ / GAS): Created the BasicAttributeSet for the characters, and the Dash ability with its effects
 - Environment: Built the ballroom's upper-level railings, chandeliers, and round tables
 
+https://github.com/user-attachments/assets/dbcfa6c3-01c4-424b-bd43-08e90f05a8f4
+
 ### Nexus
 
 An Unreal Engine project based on and inspired by tutorial series created by Ali Elzoheiry. I've been using the project to learn and experiment with GAS, dedicated servers, multiple clients, and gameplay replication. 
